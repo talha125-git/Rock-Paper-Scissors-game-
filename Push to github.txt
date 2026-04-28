@@ -1,3 +1,3 @@
 git add .
-git commit -m "add Scissors image"  
+git commit -m "add css"  
 git push -u origin main  
